@@ -7,7 +7,7 @@ import SearchIcon from './search.svg';
 
 // c12365da
 
-const API_URL = 'http://www.omdbapi.com?apikey=c12365da';
+const API_URL = 'https://www.omdbapi.com?apikey=c12365da';
 
 const App = () => {
 
@@ -21,7 +21,7 @@ const App = () => {
     }
 
     useEffect(() => {
-        searchMovies('batman');
+        searchMovies('movies');
 
     }, []);
 
