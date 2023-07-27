@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Movieverse_react/static/css/main.334bdeb1.css",
-    "main.js": "/Movieverse_react/static/js/main.bf02e7e2.js",
+    "main.js": "/Movieverse_react/static/js/main.0d380801.js",
     "index.html": "/Movieverse_react/index.html",
     "static/media/search.svg": "/Movieverse_react/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.334bdeb1.css.map": "/Movieverse_react/static/css/main.334bdeb1.css.map",
-    "main.bf02e7e2.js.map": "/Movieverse_react/static/js/main.bf02e7e2.js.map"
+    "main.0d380801.js.map": "/Movieverse_react/static/js/main.0d380801.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.bf02e7e2.js"
+    "static/js/main.0d380801.js"
   ]
 }
